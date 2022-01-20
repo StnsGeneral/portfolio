@@ -20,8 +20,10 @@ const Hero = (props) => (
         opportunities to learn new technologies, and to have some fun while
         doing so.
       </SectionText>
-      {/* TODO: Need to figure out a way to have learn more do something better than just link to Google */}
-      <Button onClick={() => (window.location = 'https://google.com')}>
+      <Button
+        onClick={() =>
+          (window.location = 'https://linkedin.com/in/tristanalexandermiller')
+        }>
         Learn More
       </Button>
     </LeftSection>

@@ -18,11 +18,11 @@ const Footer = () => {
   return (
     <FooterWrapper>
       <LinkList>
-        <LinkColumn>
+        {/* <LinkColumn>
           <LinkTitle>Call</LinkTitle>
-          {/* TODO: Figure out a number people can actually call */}
+          TODO: Figure out a number people can actually call
           <LinkItem href="tel:111-111-1111">111-111-1111</LinkItem>
-        </LinkColumn>
+        </LinkColumn> */}
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
           <LinkItem href="mailto:tristanmiller89@gmail.com">
