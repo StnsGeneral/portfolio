@@ -18,12 +18,10 @@ const Accomplishments = () => (
   <Section>
     <SectionTitle>Personal Achievements</SectionTitle>
     <Boxes>
-      {data.map((card, index) => (
-        <Box key={index}>
-          <BoxNum>{card.number}+</BoxNum>
-          <BoxText>{card.text}</BoxText>
-        </Box>
-      ))}
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=StnsGeneral&show_icons=true&theme=vision-friendly-dark"
+        alt="stats"
+      />
     </Boxes>
   </Section>
 );
