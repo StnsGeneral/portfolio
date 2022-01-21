@@ -12,7 +12,6 @@ export const GridContainer = styled.section`
   grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
   padding: 3rem;
   place-items: center;
-  justify-content: space-around;
   column-gap: 2rem;
   row-gap: 3rem;
   @media ${(props) => props.theme.breakpoints.sm} {
@@ -66,6 +65,7 @@ export const Intro = styled.div`
 export const CardInfo = styled.p`
   width: 100%;
   padding: 0 50px;
+  padding-bottom: 8px;
   color: #e4e6e7;
   font-style: 2rem;
   line-height: 24px;
