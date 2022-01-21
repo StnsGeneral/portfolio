@@ -16,7 +16,7 @@ const Hero = (props) => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        FullStack Web Developer that is constantly seeking new and exciting
+        Full-Stack Web Developer that is constantly seeking new and exciting
         opportunities to learn new technologies, and to have some fun while
         doing so.
       </SectionText>
