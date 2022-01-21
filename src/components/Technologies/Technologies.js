@@ -20,9 +20,9 @@ const Technologies = () => (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I have worked with a range of technologies in the web development world.{' '}
-      <br />
-      Back-end to Front-end even dabbling in Design
+      I have worked with a wide range of technologies in the web development
+      world. <br />
+      Back-end to Front-end even dabbling in Design.
     </SectionText>
     <List>
       <ListItem>
@@ -49,10 +49,7 @@ const Technologies = () => (
         <DiZend size="3rem" />
         <ListContainer>
           <ListTitle>Design</ListTitle>
-          <ListParagraph>
-            Experience with <br />
-            tools like Figma
-          </ListParagraph>
+          <ListParagraph>Experience with Figma</ListParagraph>
         </ListContainer>
       </ListItem>
     </List>
