@@ -14,7 +14,7 @@ export const projects = [
     description:
       'Created an entire custom backend API using Node and Express for use in a web application to assist in creating a timetable to remember to water your plants. Created the databases to utilize both SQLite and PostGres.',
     image: '/images/plant2.jpg',
-    tags: ['Node', 'Express', 'JSONWebToken', 'SQLite3', 'PostGres'],
+    tags: ['Node', 'Express', 'JWT', 'SQL', 'PostGres'],
     source: 'https://github.com/ptpt-watermyplants-2/Back-End',
     // visit: 'https://damp-ravine-25485.herokuapp.com/',
     id: 1,
